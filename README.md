@@ -18,4 +18,4 @@ This project uses a Power BI report and student dataset to explore academic resu
 
 ## Dataset Notes
 
-The included spreadsheet has columns for Student ID, gender, ethnicity, parental education, test preparation, and math, reading, and writing scores. It does not contain attendance, study-hours, or class columns; those analyses require the relevant fields to be available from another source or in the report's data model. Interpret observed relationships as associations, not proof of cause and effect.
+The included spreadsheet has columns for Student ID, gender, ethnicity, parental education, test preparation, and math, reading, and writing scores. It does not contain attendance, study-hours, or class columns.
